@@ -12,4 +12,4 @@
 ## Prerequisites
 - Python scripting
 - Shell access
-- VirtualBox
+- VirtualBox with ISOs for the 2 PentesterLab exercises installed
